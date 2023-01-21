@@ -12,5 +12,5 @@
 * user hits edit
 * app navigates back to home path
 * user makes edit 
-* user hits submot 
+* user hits submit 
 * changes are visible on next page
